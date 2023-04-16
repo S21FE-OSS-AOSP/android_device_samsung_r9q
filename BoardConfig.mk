@@ -10,7 +10,7 @@ TARGET_SPECIFIC_HEADER_PATH += $(DEVICE_PATH)/include
 TARGET_OTA_ASSERT_DEVICE := r9q
 
 # Kernel
-TARGET_KERNEL_CONFIG := vendor/r9q_eur_open_defconfig
+TARGET_KERNEL_CONFIG := vendor/r9q_eur_openx_defconfig
 
 # Bluetooth
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := $(DEVICE_PATH)/bluetooth/include

@@ -9,7 +9,6 @@ vendor/etc/audconf/OPEN/Hdmi_cal.acdb
 vendor/etc/audconf/OPEN/Handset_cal.acdb
 
 # ADSP modules
-vendor/lib/libsnpe_dsp_domains_v2.so
 vendor/lib/libSNPE.so
 vendor/lib/libsnpe_wrapper.so
 
